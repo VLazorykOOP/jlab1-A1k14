@@ -1,8 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
-	// write your code here
-        System.out.println("Lab 1 Java");
-        System.out.printf("test");
+
+        System.out.println("Hello words");
     }
 }
